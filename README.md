@@ -10,3 +10,8 @@ An application to scramble your phone number
 - Generate a new "key" to give out.
 - Makes it easier for influential people to give out there phone number.
   - If it gets leaked, they can easily drop that number.
+
+- Going to use:
+  - React (html, css, js)
+  - laravel (php)
+  - Mysql
